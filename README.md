@@ -11,6 +11,11 @@ The Algorithmic Trading Process:
 
 API(Application Programming Interface): IEX Cloud API
 
+Proejct:
+
+1.Equal-Weight S&P500 Screener
+2.
+
 
 
 
